@@ -1,0 +1,4 @@
+---
+applications:
+- name: simple-server
+  docker_image: mookas/simple-server:latest
