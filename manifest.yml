@@ -1,5 +1,5 @@
 ---
 applications:
-- name: simple-server
+- name: go-env 
   docker_image: mookas/go-env:latest
 
