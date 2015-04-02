@@ -1,0 +1,4 @@
+---
+applications:
+- name: docker-store
+  buildpack: https://github.com/ActiveState/staticfile-buildpack.git#custom-404 
