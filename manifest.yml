@@ -1,5 +1,5 @@
 ---
 applications:
 - name: lattice-app 
-  docker_image: cloudfoundry/lattice:latest
+  docker_image: cloudfoundry/lattice-app:latest
 
