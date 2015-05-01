@@ -1,7 +1,7 @@
 store:
   title: Docker Apps 
   contact: Stackato Support <stackato-support@activestate.com>
-  icon: http://docker-store.192.168.68.54.xip.io/docker-logo.png
+  icon: https://get.stackato.com/store/icon/third-party.png
 
 apps:
 - name: Python Simple Server 
@@ -13,7 +13,7 @@ apps:
   commit: mookas/simple-server 
   src: https://github.com/troytop/docker-app-store.git
   info: https://github.com/troytop/docker-app-store/#readme
-  icon: http://docker-store.192.168.68.54.xip.io/docker-logo.png
+  icon: http://docker-store.demo.stacktest.io/docker-logo.png
   mem: 256
 
 - name: Docker Go Env 
@@ -25,7 +25,7 @@ apps:
   commit: mookas/go-env 
   src: https://github.com/troytop/docker-app-store.git
   info: https://github.com/troytop/docker-app-store/#readme
-  icon: http://docker-store.192.168.68.54.xip.io/docker-logo.png
+  icon: http://docker-store.demo.stacktest.io/docker-logo.png
   mem: 256
 
 - name: Lattice App 
@@ -37,5 +37,5 @@ apps:
   commit: cloudfoundry/lattice-app
   src: https://github.com/troytop/docker-app-store.git
   info: https://github.com/troytop/docker-app-store/#readme
-  icon: http://docker-store.192.168.68.54.xip.io/docker-logo.png
+  icon: http://docker-store.demo.stacktest.io/docker-logo.png
   mem: 256
